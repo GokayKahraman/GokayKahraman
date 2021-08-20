@@ -18,8 +18,10 @@
 
 
 
+Social Media links :
 
-
-<img src="" width="50"/><img src="" width="50"/><img src="" width="50"/><img src="" width="50"/>
+<a href="https://www.instagram.com/gokykh/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50"/> </a>
+<a href="https://www.linkedin.com/in/gokay-kahraman/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50"/> </a>
+<a href="https://www.codewars.com/users/GokayHero"> <img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" width="50"/> </a>
 
 
