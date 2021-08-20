@@ -14,6 +14,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/54667236/130208107-0119634f-7752-445b-bb0a-84e70b735b32.png) ![image](https://user-images.githubusercontent.com/54667236/130207522-464fb070-7774-4af7-80c3-967aacd75dd2.png) ![image](https://user-images.githubusercontent.com/54667236/130208712-d7a0ed11-5679-4c35-895d-862889f13369.png)
+<img src="https://vuejs.org/images/logo.svg" width="50"/> <img src="" width="50"/> <img src="" width="50"/> <img src="" width="50"/>
 
 
