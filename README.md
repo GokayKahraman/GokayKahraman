@@ -6,6 +6,6 @@
 
 
 
-[![Gokay's github stats](https://github-readme-stats.vercel.app/api?username=GokayKahraman&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stat)
+[![Gokay's github stats](https://github-readme-stats.vercel.app/api?username=GokayKahraman&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stat) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokayKahraman)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokayKahraman)](https://github.com/anuraghazra/github-readme-stats)
+
